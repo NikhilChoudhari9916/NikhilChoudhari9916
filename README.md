@@ -26,7 +26,8 @@ If you have an interesting project or idea, feel free to reach out!
 - 
 
 📈 Projects
-Coming soon! (Stay tuned for updates on my latest projects and contributions.)
+- https://github.com/NikhilChoudhari9916/BankHub
+- https://github.com/NikhilChoudhari9916/NLP_data_science_project
 
 📫 Let's Connect
 LinkedIn https://www.linkedin.com/in/nikhil-choudhari/
@@ -34,5 +35,3 @@ LinkedIn https://www.linkedin.com/in/nikhil-choudhari/
 Email: choudharinikhil1907@gmail.com
 
 Always learning, always building. Let’s make something amazing together!
-
-Feel free to personalize the contact information and add links to your projects or social profiles. If you want to showcase specific repositories, achievements, or add more sections (like fun facts or a quote), let me know!
